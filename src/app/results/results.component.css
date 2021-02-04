@@ -1,0 +1,27 @@
+input[type=button]{
+  background-color: #00b4d8;
+  color: white;
+  width: 70px;
+  height: 35px;
+  text-align: center;
+}
+div{
+  float: right;
+  padding-right: 700px;
+  padding-bottom: 200px;
+
+}
+table{
+  height: 300px;
+  width: 500px  ;
+  border-collapse: collapse;
+}
+thead tr{
+  background-color: lightgray;
+  width: 100px;
+  height: 40px;
+}
+td{
+  text-align: right;
+  border-bottom: 2px solid lightgray;
+}
